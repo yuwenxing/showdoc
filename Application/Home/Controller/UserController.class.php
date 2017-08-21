@@ -6,6 +6,7 @@ class UserController extends BaseController {
 
 	//注册
 	public function register(){
+    $this->error('暂时没有开启注册功能',U('Index/index'));
 		if (!IS_POST) {
 			  $this->assign('CloseVerify',C('CloseVerify'));
 			  $this->display ();
