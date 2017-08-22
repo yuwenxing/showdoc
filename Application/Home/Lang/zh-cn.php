@@ -25,7 +25,7 @@ return array(
     //index
     'help' => '帮助',
     'demo' => '示例',
-    'index_login_or_register' => '登录 / 注册',
+    'index_login_or_register' => '登录',
     'my_item' => '我的项目',
     'section_title1' => 'ShowDoc',
     'section_description1' => '一个非常适合IT团队的在线API文档、技术文档工具',
